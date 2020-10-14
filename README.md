@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Hello People !!
+## ⚡ I'm Full Stack Developer 💻 
 
-<!--
-**YesnielX/YesnielX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# This is What I’am Learning and Working On!
+- ⌚️ I’m currently Learning **ReactJs ⚛️** And AngularJs 🅰️.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Photos App With **MERN**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **Web App Projects**.
+
+- 💬 Ask me about **Backend** And **Frontend**.
+
+- 💬 I spend a lot of time on **[Discord](https://discord.gg/MTN9XCA)**
+
+# Follow Me in
+- 🐦️[Twitter](https://twitter.com/yesnielx)
