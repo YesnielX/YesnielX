@@ -12,5 +12,9 @@
 
 - 💬 I spend a lot of time on **[Discord](https://discord.gg/MTN9XCA)**
 
+<img src="https://github-readme-stats.vercel.app/api?username=yesnielx&show_icons=true" align="left" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesnielx&layout=compact" align="center" width="400" />
+
+
 # Follow Me in
 - 🐦️[Twitter](https://twitter.com/yesnielx)
